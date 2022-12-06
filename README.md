@@ -1,3 +1,6 @@
+## **Sistema generador de texto para reportar a Sistemas**
+
+
 <font color = 'firebrick'> **Situación**: </font> Esporádicamente suelen haber errores al procesar pagos y los mismos no ingresan al sistema a pesar de sí haberse cobrado en la tarjeta de los clientes.
 
 Los colaboradores deben pedir mediante un ticket a sistemas que se corrija el error.
