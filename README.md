@@ -14,4 +14,5 @@ Al ser una situación esporádica y estar atendiendo en simultáneo, se les comp
 - Menor tiempo en crear un reporte. 
 
 En resumen, **eficiencia y eficacia.**
-        
+
+Lenguaje utilizado: Python
